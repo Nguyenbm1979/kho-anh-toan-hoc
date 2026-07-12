@@ -1,0 +1,98 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='187.88543pt' height='26.643925pt' viewBox='-64.029892 -64.029897 187.88543 26.643925'>
+<defs>
+<pattern height='3.0' id='pgfpat4' patternTransform='matrix(1.0 0.0 0.0 1.0 0.0 0.0)' patternUnits='userSpaceOnUse' width='3.0'/> <symbol id='pgfsym4'> <g stroke-width='0.4'>
+ <path d=' M 0.0 3.0 L 3.1 -0.1  ' fill='none'/>
+ </g>
+  </symbol>
+<font id='lmex10' horiz-adv-x='0'>
+<font-face font-family='lmex10' units-per-em='1000' ascent='772' descent='2960'/>
+<glyph unicode='' horiz-adv-x='458' vert-adv-y='458' glyph-name='parenrightbig' d='M305-560C305-418 280-217 149-48C139-36 74 40 56 40C51 40 44 38 44 30C44 26 46 23 50 20C98-32 163-113 204-272C227-363 236-466 236-559C236-660 227-762 201-860C163-1000 104-1080 53-1136C44-1145 44-1149 44-1149C44-1157 51-1159 56-1159C71-1159 126-1098 138-1084C240-963 305-783 305-560Z'/>
+<glyph unicode='' horiz-adv-x='417' vert-adv-y='417' glyph-name='bracketleftbig' d='M394-1159V-1119H242V0H394V40H202V-1159H394Z'/>
+</font>
+<font id='rm-lmr10' horiz-adv-x='0'>
+<font-face font-family='rm-lmr10' units-per-em='1000' ascent='1127' descent='290'/>
+<glyph unicode='2' horiz-adv-x='500' vert-adv-y='500' glyph-name='two' d='M449 174H424C419 144 412 100 402 85C395 77 329 77 307 77H127L233 180C389 318 449 372 449 472C449 586 359 666 237 666C124 666 50 574 50 485C50 429 100 429 103 429C120 429 155 441 155 482C155 508 137 534 102 534C94 534 92 534 89 533C112 598 166 635 224 635C315 635 358 554 358 472C358 392 308 313 253 251L61 37C50 26 50 24 50 0H421L449 174Z'/>
+<glyph unicode='5' horiz-adv-x='500' vert-adv-y='500' glyph-name='five' d='M449 201C449 320 367 420 259 420C211 420 168 404 132 369V564C152 558 185 551 217 551C340 551 410 642 410 655C410 661 407 666 400 666C400 666 397 666 392 663C372 654 323 634 256 634C216 634 170 641 123 662C115 665 111 665 111 665C101 665 101 657 101 641V345C101 327 101 319 115 319C122 319 124 322 128 328C139 344 176 398 257 398C309 398 334 352 342 334C358 297 360 258 360 208C360 173 360 113 336 71C312 32 275 6 229 6C156 6 99 59 82 118C85 117 88 116 99 116C132 116 149 141 149 165S132 214 99 214C85 214 50 207 50 161C50 75 119-22 231-22C347-22 449 74 449 201Z'/>
+</font>
+<font id='lmsy10' horiz-adv-x='0'>
+<font-face font-family='lmsy10' units-per-em='1000' ascent='775' descent='960'/>
+<glyph unicode='−' horiz-adv-x='778' vert-adv-y='778' glyph-name='minus' d='M694 250C694 270 675 270 661 270H116C102 270 83 270 83 250S102 230 116 230H661C675 230 694 230 694 250Z'/>
+</font>
+</defs>
+<style type='text/css'>
+<![CDATA[text.f0 {font-family:lmex10;font-size:9.96264px}
+text.f1 {font-family:lmsy10;font-size:9.96264px}
+text.f2 {font-family:rm-lmr10;font-size:9.96264px}
+]]>
+</style>
+<g id='page1'>
+<g stroke-miterlimit='10' transform='translate(4.400764,-54.731737)scale(0.996264,-0.996264)'>
+<g fill='#000' stroke='#000'>
+<g stroke-width='0.4'>
+<g stroke-width='0.8'>
+<path d='M -68.28728 0.0 L 118.70274 0.0' fill='none'/>
+<g transform='translate(119.10274,0.0)'>
+<g stroke-dasharray='none' stroke-dashoffset='0.0'>
+ <g stroke-linecap='round'>
+ <g stroke-linejoin='round'>
+ <path d=' M -2.56 3.12257 C -2.0923 1.24901 -1.05006 0.3643 0.0 0.0 C -1.05006 -0.3643 -2.0923 -1.24901 -2.56 -3.12257  ' fill='none'/>
+ </g>
+ </g>
+ </g>
+</g>
+</g>
+<path d='M -34.14363 3.4143 L -34.14363 -3.4143' fill='none'/>
+<g transform='translate(-40.53253,-13.24452)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(4.400764,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f1' x='4.400764' y='-54.731737'>−</text>
+<text class='f2' x='12.149512' y='-54.731737'>2</text>
+</g>
+</g>
+</g>
+</g>
+<path d='M 85.35909 3.4143 L 85.35909 -3.4143' fill='none'/>
+<g transform='translate(82.85909,-13.24452)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(4.400764,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f2' x='4.400764' y='-54.731737'>5</text>
+</g>
+</g>
+</g>
+</g>
+<g stroke-width='2.0'>
+<path d='M -34.14363 0.0 L 85.35909 0.0' fill='none'/>
+</g>
+<g transform='translate(-36.22697,-2.49998)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(4.400764,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f0' x='4.400764' y='-62.801543'></text>
+</g>
+</g>
+</g>
+</g>
+<g transform='translate(83.06741,-2.49998)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(4.400764,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f0' x='4.400764' y='-62.801543'></text>
+</g>
+</g>
+</g>
+</g>
+<pattern id='pgfupat1' xlink:href='#pgfpat4'> <g fill='#000' stroke='#000'> <use xlink:href='#pgfsym4'/> </g> </pattern>
+<g fill='url(#pgfupat1)'>
+<path d='M -68.28728 0.0 M -68.28728 0.0 L -68.28728 0.85362 L -34.14363 0.85362 L -34.14363 0.0 Z M -34.14363 0.85362' stroke='none'/>
+</g>
+<pattern id='pgfupat2' xlink:href='#pgfpat4'> <g fill='#000' stroke='#000'> <use xlink:href='#pgfsym4'/> </g> </pattern>
+<g fill='url(#pgfupat2)'>
+<path d='M 85.35909 0.0 M 85.35909 0.0 L 85.35909 0.85362 L 119.50273 0.85362 L 119.50273 0.0 Z M 119.50273 0.85362' stroke='none'/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
