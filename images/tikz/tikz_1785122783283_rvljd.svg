@@ -1,0 +1,91 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='170.477171pt' height='24.939756pt' viewBox='-64.029892 -64.029893 170.477171 24.939756'>
+<defs>
+<font id='lmex10' horiz-adv-x='0'>
+<font-face font-family='lmex10' units-per-em='1000' ascent='772' descent='2960'/>
+<glyph unicode='' horiz-adv-x='458' vert-adv-y='458' glyph-name='parenrightbig' d='M305-560C305-418 280-217 149-48C139-36 74 40 56 40C51 40 44 38 44 30C44 26 46 23 50 20C98-32 163-113 204-272C227-363 236-466 236-559C236-660 227-762 201-860C163-1000 104-1080 53-1136C44-1145 44-1149 44-1149C44-1157 51-1159 56-1159C71-1159 126-1098 138-1084C240-963 305-783 305-560Z'/>
+<glyph unicode='' horiz-adv-x='417' vert-adv-y='417' glyph-name='bracketleftbig' d='M394-1159V-1119H242V0H394V40H202V-1159H394Z'/>
+</font>
+<font id='rm-lmr8' horiz-adv-x='0'>
+<font-face font-family='rm-lmr8' units-per-em='1000' ascent='1125' descent='292'/>
+<glyph unicode='2' horiz-adv-x='531' vert-adv-y='531' glyph-name='two' d='M477 179H446C443 159 435 109 423 90C417 82 341 82 325 82H147L282 204C298 219 340 252 356 266C418 323 477 378 477 469C477 588 377 665 252 665C132 665 53 574 53 485C53 436 92 429 106 429C127 429 158 444 158 482C158 534 108 534 96 534C125 607 192 632 241 632C334 632 382 553 382 469C382 365 309 289 191 168L65 38C53 27 53 25 53 0H448L477 179Z'/>
+<glyph unicode='5' horiz-adv-x='531' vert-adv-y='531' glyph-name='five' d='M477 200C477 316 393 419 275 419C225 419 178 403 140 369V562C153 558 193 548 235 548C360 548 436 636 436 651C436 662 429 665 424 665C424 665 420 665 411 660C372 645 326 633 272 633C213 633 164 648 133 660C123 665 120 665 120 665C107 665 107 654 107 636V343C107 325 107 313 123 313C131 313 134 317 139 325C151 340 189 391 274 391C330 391 357 345 366 326C383 290 385 244 385 205C385 168 384 114 356 70C337 40 297 9 244 9C179 9 115 50 92 115C95 114 102 114 102 114C130 114 152 132 152 163C152 200 123 213 103 213C85 213 53 203 53 160C53 70 131-21 246-21C371-21 477 76 477 200Z'/>
+</font>
+<font id='lmsy8' horiz-adv-x='0'>
+<font-face font-family='lmsy8' units-per-em='1000' ascent='779' descent='955'/>
+<glyph unicode='−' horiz-adv-x='826' vert-adv-y='826' glyph-name='minus' d='M736 250C736 273 714 273 700 273H125C111 273 89 273 89 250S111 227 125 227H700C714 227 736 227 736 250Z'/>
+</font>
+</defs>
+<style type='text/css'>
+<![CDATA[text.f0 {font-family:lmex10;font-size:9.96264px}
+text.f1 {font-family:lmsy8;font-size:7.970112px}
+text.f2 {font-family:rm-lmr8;font-size:7.970112px}
+]]>
+</style>
+<g id='page1'>
+<g stroke-miterlimit='10' transform='translate(21.208691,-54.731737)scale(0.996264,-0.996264)'>
+<g fill='#000' stroke='#000'>
+<g stroke-width='0.4'>
+<g stroke-linejoin='round'>
+<g stroke-linecap='round'>
+<path d='M -85.35823 0.0 L 83.35826 0.0' fill='none'/>
+<g transform='translate(83.35826,0.0)'>
+<path d=' M 1.99997 0.0 L -1.19998 1.59998 L 0.0 0.0 L -1.19998 -1.59998  ' stroke='none'/>
+</g>
+<path d='M -28.45274 2.84544 L -28.45274 -2.84544' fill='none'/>
+<g transform='translate(-33.88335,-11.5339)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(21.208691,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f1' x='21.208691' y='-54.731737'>−</text>
+<text class='f2' x='27.795197' y='-54.731737'>2</text>
+</g>
+</g>
+</g>
+</g>
+<path d='M 28.45274 2.84544 L 28.45274 -2.84544' fill='none'/>
+<g transform='translate(26.32774,-11.5339)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(21.208691,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f2' x='21.208691' y='-54.731737'>5</text>
+</g>
+</g>
+</g>
+</g>
+<path d='M -28.45274 0.0' fill='none'/>
+<g transform='translate(-30.74442,-1.99998)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(21.208691,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f0' x='21.208691' y='-62.303411'></text>
+</g>
+</g>
+</g>
+</g>
+<path d='M 28.45274 0.0' fill='none'/>
+<g transform='translate(26.3694,-1.99998)'>
+<g stroke='none' transform='scale(-1.00375,1.00375)translate(21.208691,-54.731737)scale(-1,-1)'>
+<g fill='#000'>
+<g stroke='none'>
+<text class='f0' x='21.208691' y='-62.303411'></text>
+</g>
+</g>
+</g>
+</g>
+<path d='M -27.88356 -3.41418 L -23.33101 3.41418' fill='none'/>
+<path d='M -22.1931 -3.41418 L -17.64055 3.41418' fill='none'/>
+<path d='M -16.50264 -3.41418 L -11.95009 3.41418' fill='none'/>
+<path d='M -10.81218 -3.41418 L -6.25963 3.41418' fill='none'/>
+<path d='M -5.12172 -3.41418 L -0.56917 3.41418' fill='none'/>
+<path d='M 0.56874 -3.41418 L 5.12128 3.41418' fill='none'/>
+<path d='M 6.2592 -3.41418 L 10.81174 3.41418' fill='none'/>
+<path d='M 11.94966 -3.41418 L 16.5022 3.41418' fill='none'/>
+<path d='M 17.64012 -3.41418 L 22.19266 3.41418' fill='none'/>
+<path d='M 23.33058 -3.41418 L 27.88313 3.41418' fill='none'/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
